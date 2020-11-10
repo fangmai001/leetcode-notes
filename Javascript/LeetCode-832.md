@@ -1,3 +1,9 @@
+# LeetCode #832 Flipping an Image
+
+- Runtime: 88 ms, faster than 50.43% of JavaScript online submissions for Flipping an Image.
+- Memory Usage: 40.3 MB, less than 5.22% of JavaScript online submissions for Flipping an Image.
+
+```javascript
 /**
  * @param {number[][]} A
  * @return {number[][]}
@@ -29,3 +35,4 @@ console.log(
     [1, 0, 1, 0],
   ])
 );
+```
