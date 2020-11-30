@@ -1,3 +1,9 @@
+# LeetCode #7 Reverse Integer
+
+- Runtime: 64 ms, faster than 25.22% of Ruby online submissions for Reverse Integer.
+- Memory Usage: 210.1 MB, less than 12.50% of Ruby online submissions for Reverse Integer.
+
+```ruby
 # @param {Integer} x
 # @return {Integer}
 def reverse(x)
@@ -14,3 +20,4 @@ p reverse(123)
 p reverse(-123)
 p reverse(120)
 p reverse(0)
+```
