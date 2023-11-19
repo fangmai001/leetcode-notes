@@ -1,5 +1,6 @@
-<?php
+# LeetCode #2652 Sum Multiples
 
+```php
 class Solution {
 
     /**
@@ -24,5 +25,4 @@ print_r($solution->sumOfMultiples(10));
 print_r("\n");
 print_r($solution->sumOfMultiples(9));
 print_r("\n");
-
-?>
+```
